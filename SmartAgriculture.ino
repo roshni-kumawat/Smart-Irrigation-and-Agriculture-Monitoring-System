@@ -8,8 +8,8 @@
 #define PUMP_PIN D1     // Pump relay control pin
 
 // WiFi credentials
-const char* ssid = "ToRR";
-const char* password = "torr@12345";
+const char* ssid = "Roshni";
+const char* password = "roshni#roshni";
 
 // Objects
 ESP8266WebServer server(80);
